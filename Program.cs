@@ -11,6 +11,7 @@ namespace LearningProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Learning Project");
         }
     }
 }
